@@ -1,4 +1,4 @@
-title:            Slate+Simple Jekyll Theme
+﻿title:            Slate+Simple Jekyll Theme
 description:      Your site description...
 copyright:        Your Name
 url: # add your custom site url (format: https://example.com)
@@ -21,6 +21,9 @@ permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
 paginate: 5
+
+# Build settings
+disqus-shortname: highwindl
 
 #kramdown:
 #  input: GFM
