@@ -1,0 +1,25 @@
+I"<h2 id="참고자료---아스키-코드표">참고자료 - 아스키 코드표</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">10진수</th>
+      <th style="text-align: center">16진수</th>
+      <th style="text-align: center">문자</th>
+      <th style="text-align: center">10진수</th>
+      <th style="text-align: center">16진수</th>
+      <th style="text-align: center">문자</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">0x00</td>
+      <td style="text-align: center">0000 0000</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">0x00</td>
+      <td style="text-align: center">0000 0000</td>
+    </tr>
+  </tbody>
+</table>
+:ET
