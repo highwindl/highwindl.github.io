@@ -1,4 +1,4 @@
-I"�<h2 id="c언어-기초---03개발환경구축">C언어 기초 - 03.개발환경구축</h2>
+I"�<h2 id="c언어-기초---03개발환경구축">C언어 기초 - 03.개발환경구축</h2>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IuvHlH-aH7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -6,7 +6,9 @@
 
 <p>DEV C++을 이용한 개발환경 구축과 최초의 프로그램을 작성 해보기 위한 영상입니다.</p>
 
-<p>#과제</p>
+<p><a href="https://github.com/highwindl/homework/tree/master/C%EC%96%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%203%EA%B0%95"><u>과제 정답 링크 입니다.</u></a></p>
+
+<p><strong>과제</strong></p>
 <hr />
 
 <p>1.기본 프로그램 사용법을 익히기 위해 영상의 내용을 따라 Hello World를 출력하는 프로그램을 만들어 봅시다.<br />
