@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: "진법변환"
 tags: [C, C언어, C언어 강의, C언어 강좌, 2진수, 8진수, 16진수]
-date-string: AUGUST 10, 2020
+date-string: AUGUST 19, 2020
 ---
 
 ## 보충자료 - 진법변환
