@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\_includes",
-    "\\_posts"
+    "\\_posts",
+    "\\_posts\\C_Language_Basic",
+    "\\_posts\\C_Language_supplement",
+    "\\_posts\\Occasionally_Post",
+    "\\_posts\\References"
   ],
-  "SelectedNode": "\\_includes\\navigation.html",
+  "SelectedNode": "\\_posts\\C_Language_Basic\\2020-08-25-C_Language_Basic04.md",
   "PreviewInSolutionExplorer": false
 }
