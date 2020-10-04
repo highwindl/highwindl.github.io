@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: "C언어 기초 5강"
 tags: [C, C언어, C언어 강의, C언어 강좌, DEV C++]
-date-string: Septembet 20, 2020
+date-string: September 20, 2020
 ---
 
 ## C언어 기초 - 05.연산자
@@ -36,6 +36,7 @@ C언어 연산자에 대한 설명입니다.
 
 		return 0;
 	}
+
 해당 코드를 이용해 +, -, *, /, %연산을 출력하는 코드를 만들어 봅시다.
 
 <hr/>
