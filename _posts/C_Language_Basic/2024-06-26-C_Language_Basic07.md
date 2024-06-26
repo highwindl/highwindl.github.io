@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: posts
-title: "C언어 기초 6강"
+title: "C언어 기초 7강"
 tags: [C, C언어, C언어 강의, C언어 강좌, DEV C++]
-date-string: October 04, 2020
+date-string: June 26, 2024
 ---
 
 ## C언어 기초 - 07.반복문
