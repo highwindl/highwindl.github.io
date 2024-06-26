@@ -14,7 +14,7 @@ date-string: June 26, 2024
 
 C언어 반복문에 대한 설명입니다.
 
-[<u>과제 정답 링크 입니다.</u>](https://github.com/highwindl/homework/tree/master/C%EC%96%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%206%EA%B0%95)
+[<u>과제 정답 링크 입니다.</u>](https://github.com/highwindl/homework/tree/880e36ff746a8eb9872731aa679fe93818eec363/C%EC%96%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%207%EA%B0%95)
 
 **과제**
 <hr/>
