@@ -12,7 +12,7 @@ date-string: October 04, 2020
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jdi_rzxx0qE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-C언어 연산자에 대한 설명입니다.
+C언어 분기문에 대한 설명입니다.
 
 [<u>과제 정답 링크 입니다.</u>](https://github.com/highwindl/homework/tree/master/C%EC%96%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%206%EA%B0%95)
 
@@ -47,7 +47,7 @@ C언어 연산자에 대한 설명입니다.
 **Q2.**  
 아래의 코드는 입력받은 값 a를 출력하는 예제입니다.
 
-#include<stdio.h>
+	#include<stdio.h>
 
 	int main()
 	{
