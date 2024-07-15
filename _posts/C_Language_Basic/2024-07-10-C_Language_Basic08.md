@@ -9,7 +9,7 @@ date-string: July 10, 2024
 ## C언어 기초 - 08.함수
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k8tkaF1g59I?si=ZeHFeq4Kyi0sC1wy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XXDVvkHEjSc?si=6HE7LK_kwQ0bQnPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 C언어 함수에 대한 설명입니다.
