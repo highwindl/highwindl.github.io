@@ -21,36 +21,36 @@ C언어 함수에 대한 설명입니다.
 
 **Q1.**  
 아래의 코드에서 변수 x, y를 입력받아 두 수의 합과 차를 출력하는 sumXY()함수와 subXY()함수를 제작해 봅시다  
+```C++
+#include<stdio.h>
 
-	#include<stdio.h>
+int sumXY(int x, int y);
+int subXY(int x, int y);
 
-	int sumXY(int x, int y);
-	int subXY(int x, int y);
+int main()
+{
+	int x, y;
+	
+	printf("x, y값 입력:");
+	scanf("%d %d", &x, &y);
+	
+	printf("x와 y를 더한값은 %d입니다.\n", sumXY(x, y));
+	printf("x에서 y를 뺀 값은 %d입니다.\n", subXY(x, y));  
+	
+	
+	return 0;
+}
 
-	int main()
-	{
-		int x, y;
-		
-		printf("x, y값 입력:");
-		scanf("%d %d", &x, &y);
-		
-		printf("x와 y를 더한값은 %d입니다.\n", sumXY(x, y));
-		printf("x에서 y를 뺀 값은 %d입니다.\n", subXY(x, y));  
-		
-		
-		return 0;
-	}
+int sumXY(int x, int y)
+{
+	//여기에 코드 작성
+}
 
-	int sumXY(int x, int y)
-	{
-		//여기에 코드 작성
-	}
-
-	int subXY(int x, int y)
-	{
-		//여기에 코드 작성
-	}
-
+int subXY(int x, int y)
+{
+	//여기에 코드 작성
+}
+```
 
 예시)<br>
 프로그램 실행후 x에 4 y에 3을 입력할 경우 아래와 같은 결과가 출력됩니다.<br>
@@ -61,26 +61,26 @@ x에서 y를 뺀 값은 1입니다.
 
 **Q2.**  
 아래의 코드에서 변수 n을 입력받아 *를 순차로 출력하는 triangle()함수를 제작해 봅시다.
+```C++
+#include<stdio.h>
 
-	#include<stdio.h>
+void triangle(int n)
+{
+	//여기에 코드 작성
+}
 
-	void triangle(int n)
-	{
-		//여기에 코드 작성
-	}
+int main()
+{
+	int n;
 
-	int main()
-	{
-		int n;
+	printf("반복횟수 입력:"); 
+	scanf("%d", &n);
 
-		printf("반복횟수 입력:"); 
-		scanf("%d", &n);
-
-		triangle(n);
-		
-		return 0;
-	}
-
+	triangle(n);
+	
+	return 0;
+}
+```
 예시)<br>
 5를 입력할 경우 아래와 같은 결과가 나옵니다.<br> 
 

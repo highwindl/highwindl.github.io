@@ -21,43 +21,43 @@ C언어 연산자에 대한 설명입니다.
 
 **Q1.**  
 아래의 코드는 두 개의 수 x, y를 입력받아 x + y 연산을 출력하는 코드입니다.  
+```c++
+#include<stdio.h>
 
-	#include<stdio.h>
+int main()
+{
+	int x, y;
 
-	int main()
-	{
-		int x, y;
+	printf("x, y의 값을 입력하십시오:\n");
+	scanf("%d %d", &x, &y);
 
-		printf("x, y의 값을 입력하십시오:\n");
-		scanf("%d %d", &x, &y);
+	printf("입력받은 값 x = %d, y = %d 입니다.\n", x, y);
+	printf("%d + %d = %d 입니다.\n", x, y, x + y);
 
-		printf("입력받은 값 x = %d, y = %d 입니다.\n", x, y);
-		printf("%d + %d = %d 입니다.\n", x, y, x + y);
-
-		return 0;
-	}
-
+	return 0;
+}
+```
 해당 코드를 이용해 +, -, *, /, %연산을 출력하는 코드를 만들어 봅시다.
 
 <hr/>
 
 **Q2.**  
 아래의 코드는 입력받은 값 x, n을 입력받아 출력하는 예제입니다.
+```c++
+#include<stdio.h>
 
-	#include<stdio.h>
+int main()
+{
+	int x, n;
 
-	int main()
-	{
-		int x, n;
+	printf("x, n의 값을 입력하십시오:\n");
+	scanf("%d %d", &x, &n);
 
-		printf("x, n의 값을 입력하십시오:\n");
-		scanf("%d %d", &x, &n);
+	printf("입력받은 값 x = %d, n = %d 입니다.\n", x, n);
 
-		printf("입력받은 값 x = %d, n = %d 입니다.\n", x, n);
-
-		return 0;
-	}
-
+	return 0;
+}
+```
 
 해당 예제에 이번강의 내용의 비트연산자를 이용해서 x * (2의 n승)을 출력하기 위한 프로그램을 만들어 봅시다.   
 출력예시: x = 4, n = 3를 입력할때 결과

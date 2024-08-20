@@ -21,21 +21,21 @@ C언어 분기문에 대한 설명입니다.
 
 **Q1.**  
 아래의 코드는 두 개의 수 a, b를 입력받아 각각의 값을 출력하는 코드입니다.  
+```c++
+#include<stdio.h>
 
-	#include<stdio.h>
+int main()
+{
+	int a, b;
 
-	int main()
-	{
-		int a, b;
-	
-		printf("a,b 입력:");
-		scanf("%d %d", &a, &b);
-	
-		printf("a=%d, b=%d입니다.\n", a, b);	
-	
-		return 0;	
-	}
+	printf("a,b 입력:");
+	scanf("%d %d", &a, &b);
 
+	printf("a=%d, b=%d입니다.\n", a, b);	
+
+	return 0;	
+}
+```
 해당 코드에 if문을 응용해 a와 b를 비교하는 프로그램을 만들어봅시다.  
 예시)
 1. a>b 이면 "a는 b보다 큽니다."
@@ -46,21 +46,21 @@ C언어 분기문에 대한 설명입니다.
 
 **Q2.**  
 아래의 코드는 입력받은 값 a를 출력하는 예제입니다.
+```c++
+#include<stdio.h>
 
-	#include<stdio.h>
+int main()
+{
+	int a;
 
-	int main()
-	{
-		int a;
-	
-		printf("a 입력:");
-		scanf("%d", &a);
-	
-		printf("a=%d입니다.\n", a);	
-	
-		return 0;	
-	}
+	printf("a 입력:");
+	scanf("%d", &a);
 
+	printf("a=%d입니다.\n", a);	
+
+	return 0;	
+}
+```
 
 해당 코드에 switch문을 이용해 짝수, 홀수를 판별하는 프로그램을 만들어 봅시다.  
 예시)

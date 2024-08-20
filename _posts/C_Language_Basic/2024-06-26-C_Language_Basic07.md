@@ -21,28 +21,28 @@ C언어 반복문에 대한 설명입니다.
 
 **Q1.**  
 아래의 코드는 한 개의 수 n을 입력받아 1부터 n까지의 합을 출력하는 코드입니다.  
+```c++
+#include <stdio.h>
 
-	#include <stdio.h>
+int main()
+{
+	int n, result;
+	int i;
 
-	int main()
-	{
-		int n, result;
-		int i;
-	
-		result = 0;
-	
-		printf("반복횟수 입력:"); 
-		scanf("%d", &n);
+	result = 0;
 
-		for(i = 1; i <= n; i++)
-		{        
-			result += i;
-		}
-		printf("입력받은 값은 %d이며, 1부터 %d까지 더한값은 %d 입니다.\n", n, n, result); 
-	
-		return 0;
+	printf("반복횟수 입력:"); 
+	scanf("%d", &n);
+
+	for(i = 1; i <= n; i++)
+	{        
+		result += i;
 	}
+	printf("입력받은 값은 %d이며, 1부터 %d까지 더한값은 %d 입니다.\n", n, n, result); 
 
+	return 0;
+}
+```
 
 해당 코드에 if문을 응용해 짝수는 더하지 않도록 프로그램을 수정해 봅시다  
 예시)<br>
@@ -54,27 +54,27 @@ C언어 반복문에 대한 설명입니다.
 
 **Q2.**  
 아래의 코드는 입력받은 값 n에따라 *를 순차로 출력하는 예제입니다.
+```c++
+#include<stdio.h>
 
-	#include<stdio.h>
+int main()
+{
+	int n;
+	int i, j;
 
-	int main()
+	printf("반복횟수 입력:"); 
+	scanf("%d", &n);
+	
+	for(i = 1; i <= n; i++)
 	{
-		int n;
-		int i, j;
-
-		printf("반복횟수 입력:"); 
-		scanf("%d", &n);
-		
-		for(i = 1; i <= n; i++)
+		for(j = 0; j < i; j++)
 		{
-			for(j = 0; j < i; j++)
-			{
-				printf("*");
-			}      
-			printf("\n");
-		}
+			printf("*");
+		}      
+		printf("\n");
 	}
-
+}
+```
 예시)<br>
 5를 입력할 경우 아래와 같은 결과가 나옵니다.<br> 
 
