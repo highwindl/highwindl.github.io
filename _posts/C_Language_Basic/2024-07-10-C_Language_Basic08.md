@@ -21,7 +21,7 @@ C언어 함수에 대한 설명입니다.
 
 **Q1.**  
 아래의 코드에서 변수 x, y를 입력받아 두 수의 합과 차를 출력하는 sumXY()함수와 subXY()함수를 제작해 봅시다  
-```C++
+```c++
 #include<stdio.h>
 
 int sumXY(int x, int y);
@@ -61,7 +61,7 @@ x에서 y를 뺀 값은 1입니다.
 
 **Q2.**  
 아래의 코드에서 변수 n을 입력받아 *를 순차로 출력하는 triangle()함수를 제작해 봅시다.
-```C++
+```c++
 #include<stdio.h>
 
 void triangle(int n)

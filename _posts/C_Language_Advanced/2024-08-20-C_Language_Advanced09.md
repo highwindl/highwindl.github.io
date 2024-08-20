@@ -1,12 +1,12 @@
 ---
 layout: post
 categories: posts
-title: "C언어 기초 9강"
+title: "C언어 심화 9강"
 tags: [C, C언어, C언어 강의, C언어 강좌, DEV C++]
 date-string: Aug 20, 2024
 ---
 
-## C언어 기초 - 08.함수
+## C언어 심화 - 09.전역변수와 지역변수
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/veT-mtaDbI4?si=SL_WQ3nJz6YyTXSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -20,7 +20,7 @@ C언어 전역변수와 지역변수에 대한 설명입니다.
 <hr/>
 
 아래의 코드는 1~100까지의 합을 구하는 프로그램입니다.
-```C++
+```c++
 #include<stdio.h>
 
 int accX(int x)
