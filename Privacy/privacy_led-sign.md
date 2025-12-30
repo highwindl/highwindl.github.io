@@ -21,3 +21,7 @@ If you have questions about this privacy policy, please contact us:
 
 * **Email:** [highwindl52@gmail.com](mailto:highwindl52@gmail.com)
 * **Website:** [https://highwindl.github.io](https://highwindl.github.io)
+
+<div style="text-align: center;">
+  <a href="javascript:history.back()" style="font-weight: bold; text-decoration: none;">[ Go Back ]</a>
+</div>

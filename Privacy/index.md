@@ -11,16 +11,21 @@ Each policy outlines the types of data we collect and how we use it.
 
 ### Mobile Applications
 
-* **[Super LED Sign](/privacy/led-sign)**
+* **[Super LED Sign (슈퍼 LED 전광판)](/privacy/led-sign)**
     * Last Updated: December 18, 2025
     * Description: LED Banner & Scroller App
+
+* **[Decision God (결정의 신)](/privacy/decision-god)**
+    * Last Updated: December 31, 2025
+    * Description: Roulette, Ladder & Coin Toss App
 
 ---
 **Contact Us**
 If you have any questions about our privacy policies, please contact us:
-* **Email**: highwindl52@gmail.com
+* **Email**: [highwindl52@gmail.com](mailto:highwindl52@gmail.com)
+* **Website:** [https://highwindl.github.io](https://highwindl.github.io)
 
 <br>
 <div style="text-align: center;">
-  <a href="/" style="font-weight: bold; text-decoration: none;">[ Go to Home ]</a>
+  <a href="/" style="font-weight: bold; text-decoration: none;">[ Go to Home ]</a>
 </div>
