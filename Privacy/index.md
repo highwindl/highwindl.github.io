@@ -19,6 +19,10 @@ Each policy outlines the types of data we collect and how we use it.
     * Last Updated: December 31, 2025
     * Description: Roulette, Ladder & Coin Toss App
 
+* **[Sports Scoreboard Privacy Policy (스포츠 점수판)](/privacy/sports-scoreboard)**
+    * Last Updated: December 31, 2025
+    * Description: Roulette, Ladder & Coin Toss App
+
 ---
 **Contact Us**
 If you have any questions about our privacy policies, please contact us:
