@@ -19,9 +19,13 @@ Each policy outlines the types of data we collect and how we use it.
     * Last Updated: December 31, 2025
     * Description: Roulette, Ladder & Coin Toss App
 
-* **[Sports Scoreboard Privacy Policy (스포츠 점수판)](/privacy/sports-scoreboard)**
+* **[Sports Scoreboard (스포츠 점수판)](/privacy/sports-scoreboard)**
     * Last Updated: December 31, 2025
-    * Description: Roulette, Ladder & Coin Toss App
+    * Description: Universal Sports Scoreboard App
+
+* **[Modbus TCP Station](/privacy/modbus-tcp-station)**
+    * Last Updated: January 6, 2026
+    * Description: Professional Modbus TCP Master Tool
 
 ---
 **Contact Us**
@@ -31,5 +35,5 @@ If you have any questions about our privacy policies, please contact us:
 
 <br>
 <div style="text-align: center;">
-  <a href="/" style="font-weight: bold; text-decoration: none;">[ Go to Home ]</a>
+  <a href="/" style="font-weight: bold; text-decoration: none;">[ Go to Home ]</a>
 </div>
