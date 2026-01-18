@@ -27,6 +27,18 @@ Each policy outlines the types of data we collect and how we use it.
     * Last Updated: January 6, 2026
     * Description: Professional Modbus TCP Master Tool
 
+* **[FieldBus Toolkit](/privacy/fieldbus-toolkit)**
+    * Last Updated: January 18, 2026
+    * Description: Industrial Network Debugging Tool (MQTT, TCP, UDP)
+
+* **[ElectroCalc Pro](/privacy/electro-calc-pro)**
+    * Last Updated: January 18, 2026
+    * Description: Professional Electronics Calculator
+
+* **[Embedded Helper](/privacy/embedded-helper)**
+    * Last Updated: January 18, 2026
+    * Description: Essential Tools for Embedded Developers
+
 ---
 **Contact Us**
 If you have any questions about our privacy policies, please contact us:
