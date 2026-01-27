@@ -39,6 +39,10 @@ Each policy outlines the types of data we collect and how we use it.
     * Last Updated: January 18, 2026
     * Description: Essential Tools for Embedded Developers
 
+* **[Pocket Planet (포켓 플래닛)](/privacy/pocket-planet)**
+    * Last Updated: January 27, 2026
+    * Description: Healing Planet Simulation & Digital Toy
+
 ---
 **Contact Us**
 If you have any questions about our privacy policies, please contact us:
