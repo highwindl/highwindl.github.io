@@ -34,7 +34,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 ### 5. Contact Us
 If you have questions about this privacy policy, please contact us:
 
-* **Email:** [highwindl52@gmail.com](mailto:highwindl52@gmail.com)
+* **Email:** [dreamsoftware52@gmail.com](mailto:dreamsoftware52@gmail.com)
 * **Website:** [https://highwindl.github.io](https://highwindl.github.io)
 
 <br>

@@ -31,7 +31,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### 6. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-* **Email:** [highwindl52@gmail.com](mailto:highwindl52@gmail.com)
+* **Email:** [dreamsoftware52@gmail.com](mailto:dreamsoftware52@gmail.com)
 * **Website:** [https://highwindl.github.io](https://highwindl.github.io)
 
 <div style="text-align: center; margin-top: 30px;">

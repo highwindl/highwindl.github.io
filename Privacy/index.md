@@ -46,7 +46,7 @@ Each policy outlines the types of data we collect and how we use it.
 ---
 **Contact Us**
 If you have any questions about our privacy policies, please contact us:
-* **Email**: [highwindl52@gmail.com](mailto:highwindl52@gmail.com)
+* **Email**: [dreamsoftware52@gmail.com](mailto:dreamsoftware52@gmail.com)
 * **Website:** [https://highwindl.github.io](https://highwindl.github.io)
 
 <br>
