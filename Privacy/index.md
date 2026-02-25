@@ -43,6 +43,10 @@ Each policy outlines the types of data we collect and how we use it.
     * Last Updated: January 27, 2026
     * Description: Healing Planet Simulation & Digital Toy
 
+* **[Modbus RTU Station](/privacy/modbus-rtu-station)**
+    * Last Updated: February 25, 2026
+    * Description: Professional Modbus RTU Master Tool (RS485/232)
+
 ---
 **Contact Us**
 If you have any questions about our privacy policies, please contact us:
