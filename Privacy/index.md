@@ -47,6 +47,10 @@ Each policy outlines the types of data we collect and how we use it.
     * Last Updated: February 25, 2026
     * Description: Professional Modbus RTU Master Tool (RS485/232)
 
+* **[JustPercent](/privacy/justpercent)**
+    * Last Updated: February 28, 2026
+    * Description: Fast and easy 3-second percentage calculator
+
 ---
 **Contact Us**
 If you have any questions about our privacy policies, please contact us:
